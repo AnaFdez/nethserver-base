@@ -5,7 +5,7 @@ $L['Add_label'] = 'Añadir';
 $L['Name_label'] = 'Nombre del grupo'; 
 $L['PackageManager_Description'] = 'Agrega y quita grupos de paquetes del sistema'; 
 $L['PackageManager_Tags'] = 'rpm yum complementos extras'; 
-$L['PackageManager_Title'] = 'gestor de paquetes'; 
+$L['PackageManager_Title'] = 'Gestor de paquetes'; 
 $L['Remove ${0}'] = 'Eliminar ${0}'; 
 $L['Remove_label'] = 'Eliminar'; 
 $L['SelectedOptionalPackages_label'] = 'Paquetes opcionales'; 
@@ -15,7 +15,7 @@ $L['installed'] = 'instalado';
 $L['installing'] = 'instalando..'; 
 $L['mandatory_packages'] = 'Paquetes obligatorios:'; 
 $L['package_success'] = 'La operación se realizó con éxito';
-$L['removing'] = 'eliminando...'; 
+$L['removing'] = 'Eliminando...'; 
 
 $L['rpm_name'] = 'Nombre';
 $L['rpm_version'] = 'Versión';
