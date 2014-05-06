@@ -2,5 +2,5 @@
 
 /* NethServer_Module_Dashboard_SystemStatus translation, language: en */
 
-$L['Loading'] = 'Loading';
-$L['SystemStatus_Title'] = 'System status';
+$L['Loading'] = 'Cargando';
+$L['SystemStatus_Title'] = 'Estado del sistema';
